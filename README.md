@@ -17,6 +17,9 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
 ## 4. Uppsettur hugbúnaður
+Open Office: Notar LGPLv3 licence - Source Code: http://www.openoffice.org/download/source/ 
+GIMP: GNU GENERAL PUBLIC LICENSE version 3 - Source Code: http://www.gimp.org/source/#source 
+Ubuntu: Notar GNU General Public Licence - http://archive.ubuntu.com/ubuntu/
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
